@@ -1,13 +1,13 @@
 {
   "regions": {
-    "tapachula": {
+    "tijuana": {
       "center": {
         "lat": 32.5364307,
         "lng": -117.037085
       },
       "zoom": 12
     },
-    "tijuana": {
+    "tapachula": {
       "center": {
         "lat": 15.582594,
         "lng": -92.016658
